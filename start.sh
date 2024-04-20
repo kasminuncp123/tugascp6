@@ -16,3 +16,4 @@ $VIRTUALENV/bin/pip install -r requirements.txt
 
 $VIRTUALENV/bin/python3 app.py
 Footer
+
